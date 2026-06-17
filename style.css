@@ -16,7 +16,7 @@ H1, h2, h3 {
     font-family: "Delius Unicase", cursive;
   font-weight: 400;
   font-style: normal;
- Color: white; 
+ Color: black; 
 background-color: blue; 
 Text-align: center;
 }
@@ -29,6 +29,6 @@ A {
 A hover {
   Background-color: blue 
 
- Color: white;
+ Color: black;
 }
  
